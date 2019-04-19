@@ -1,1 +1,3 @@
 To run the simmulation just open build folder and find .exe file.
+
+This is a simulator of differential drive of mobile robot. You can give different angular rates(w_left, w_right) to the robot as inputs.
